@@ -6,3 +6,4 @@ This repository contains notebooks that can by run on the Nightingale platform. 
 - Notebook: [brca-psj-path-resnet-tutorial.ipynb](./brca-psj-path-resnet-tutorial.ipynb)
 - Dataset: `brca-psj-path`
 - Topics: Deep Learning, PyTorch, PyTorch Lightning, ResNet
+- Video: [demo](https://www.youtube.com/embed/yjPFTE6Reoo)
